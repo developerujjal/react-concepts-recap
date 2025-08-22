@@ -1,5 +1,6 @@
 import './App.css'
 import MainCard from './components/MainCard'
+import TrickFive from './components/TrickFive'
 import { TrickFour } from './components/TrickFour'
 import { TrickThird } from './components/TrickThird'
 import { TrickTwo } from './components/TrickTwo'
@@ -12,7 +13,8 @@ function App() {
     {/* <MainCard /> */}
     {/* <TrickTwo /> */}
     {/* <TrickThird /> */}
-    <TrickFour />
+    {/* <TrickFour /> */}
+<TrickFive />
     </>
     
   )
